@@ -1,0 +1,25 @@
+{
+  "name": "Assignment1",
+  "version": "0.0.1",
+  "description": "Automation Assignment1",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "main": "test.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chromedriver": "^2.29.0",
+    "fs-plus": "^3.0.0",
+    "geckodriver": "^1.6.0",
+    "iedriver": "^3.3.1-rc.1",
+    "optimist": "^0.6.1",
+    "selenium-webdriver": "^3.4.0"
+  },
+  "author": "RajatGupta",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  }
+}
