@@ -1,6 +1,8 @@
 # assignmentQLearning
 Assignment for Quantisti
 
+node test.js --browser chrome
+
 Dependencies : 
 Nodejs v7.7.3
 chai": "3.5.0",
